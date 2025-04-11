@@ -159,10 +159,10 @@ figure {
   padding-left: 30px;
 }
 .navbar-links li a:hover {
-  color: #f29f05;
+  color: #FF7518;
 }
 .navbar-links li.active > a {
-  color: #f29f05;
+  color: #FF7518;
 }
 .navbar-links li > a:after {
   content: "";
@@ -176,7 +176,7 @@ figure {
   transition: 0.4s all;
 }
 .navbar-links li.active > a:after {
-  background: #f29f05;
+  background: #FF7518;
 }
 .navbar-links li a {
   border: 1px solid transparent;
@@ -224,7 +224,7 @@ header {
 .restaurant .nice-select .option:hover,
 .restaurant .nice-select .option.focus,
 .restaurant .nice-select .option.selected.focus {
-  background: #f29f05;
+  background: #FF7518;
   color: black;
 }
 .restaurant .nice-select.open .list {
@@ -285,7 +285,7 @@ header {
 }
 .wilmington.location-restaurant i {
   font-size: 18px;
-  background-color: #f29f05;
+  background-color: #FF7518;
   color: white;
   border-radius: 33px;
   height: 40px;
@@ -310,13 +310,13 @@ header {
 }
 .button-2 {
   color: #fff;
-  border: 2px solid #f29f05;
+  border: 2px solid #FF7518;
   background-image: -webkit-linear-gradient(
     30deg,
-    #f29f05 50%,
+    #FF7518 50%,
     transparent 50%
   );
-  background-image: linear-gradient(30deg, #f29f05 50%, transparent 50%);
+  background-image: linear-gradient(30deg, #FF7518 50%, transparent 50%);
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: 0%;
@@ -403,7 +403,7 @@ header {
 
 .cafa-button a {
   padding: 5px 15px;
-  border: 1px solid #f29f05;
+  border: 1px solid #FF7518;
   border-radius: 10px;
   font-size: 14px;
 }
@@ -444,19 +444,19 @@ header {
 a.button-2.non {
   background-image: -webkit-linear-gradient(
     30deg,
-    #f29f0500 50%,
+    #FF751800 50%,
     transparent 50%
   );
 }
 a.button-2.non:hover {
   color: #fff;
-  border: 3px solid #f29f05;
+  border: 3px solid #FF7518;
   background-image: -webkit-linear-gradient(
     30deg,
-    #f29f05 50%,
+    #FF7518 50%,
     transparent 50%
   );
-  background-image: linear-gradient(30deg, #f29f05 50%, transparent 57%);
+  background-image: linear-gradient(30deg, #FF7518 50%, transparent 57%);
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: 0%;
@@ -644,7 +644,7 @@ a.button.button-2 i {
   position: absolute;
   height: 410px;
   width: 643px;
-  border: 7px solid #f29f05;
+  border: 7px solid #FF7518;
   border-radius: 20px;
   left: 4%;
   top: 8%;
@@ -667,12 +667,12 @@ a.button.button-2 i {
   border-radius: 20px;
   position: relative;
 }
-.Bafa {
+.Quickeat  {
   position: absolute;
   top: 8%;
   left: 8%;
 }
-.news-posts-one .Bafaa {
+.news-posts-one .Quickeat a {
   padding: 5px 15px;
   border-radius: 10px;
   color: white;
@@ -727,12 +727,12 @@ ul.data h6 i {
 .news-post-two img {
   border-radius: 20px;
 }
-.news-post-two .Bafa {
+.news-post-two .Quickeat  {
   position: relative;
   left: 0;
   top: 0;
 }
-.news-post-two .Bafaa {
+.news-post-two .Quickeat a {
   color: white;
   padding: 5px 15px;
   border-radius: 10px;
@@ -879,7 +879,7 @@ ul.social-media li a i {
   justify-content: center;
 }
 ul.social-media li a i:hover {
-  border: 1px #f29f05;
+  border: 1px #FF7518;
   color: white;
 }
 .footer-two {
@@ -1049,7 +1049,7 @@ ul.paragraph li i {
 .video-section-img:before {
   content: "";
   position: absolute;
-  border: 7px #f29f05 solid;
+  border: 7px #FF7518 solid;
   height: 567px;
   width: 579px;
   border-radius: 50px;
@@ -1065,7 +1065,7 @@ ul.paragraph li i {
   top: 50%;
   font-size: 30px;
   transform: translate(-50%, -50%);
-  background-color: #f29f05;
+  background-color: #FF7518;
   height: 70px;
   width: 70px;
   justify-content: center;
@@ -1112,7 +1112,7 @@ ul.paragraph li i {
   color: #787878;
 }
 .our-team ul.social-media li a i:hover {
-  border: 1px #f29f05;
+  border: 1px #FF7518;
   color: white;
 }
 .our-team:before {
@@ -1251,7 +1251,7 @@ ul.paragraph li i {
 }
 .subscribe-section.about:before {
   content: "";
-  background-color: #f29f05c4;
+  background-color: #FF7518c4;
   width: 100%;
   height: 700px;
   position: absolute;
@@ -1432,13 +1432,13 @@ ul.paragraph li i {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   background-color: transparent;
-  color: #f29f05;
+  color: #FF7518;
   font-size: 18px;
   font-weight: bold;
 }
 .nav-link:focus,
 .nav-link:hover {
-  color: #f29f05;
+  color: #FF7518;
 }
 .nav-pills .nav-link.active {
   position: relative;
@@ -1463,7 +1463,7 @@ ul.paragraph li i {
 .like-meal a {
   font-size: 18px;
   font-weight: bold;
-  color: #f29f05;
+  color: #FF7518;
   padding-right: 20px;
 }
 .like-meal i {
@@ -1583,7 +1583,7 @@ header.two {
   text-indent: -100px;
   overflow: hidden;
   position: relative;
-  border: 1px solid #f29f05;
+  border: 1px solid #FF7518;
   border-radius: 8px;
 }
 .qty-input .qty-count:before,
@@ -1593,7 +1593,7 @@ header.two {
   width: 10px;
   position: absolute;
   display: block;
-  background: #f29f05;
+  background: #FF7518;
   top: 0;
   bottom: 0;
   left: 0;
@@ -1655,14 +1655,14 @@ header.two {
   width: 100%;
   padding: 15px;
   border-radius: 15px;
-  border: 1px solid #f29f05;
+  border: 1px solid #FF7518;
 }
 .button-price i {
   padding-left: 20px;
 }
 .button-price:hover {
   background-color: transparent;
-  color: #f29f05;
+  color: #FF7518;
 }
 /*-------------            Service page        -------------*/
 .about-text a {
@@ -1704,7 +1704,7 @@ header.two {
 }
 .hero-section-img-service:before {
   position: absolute;
-  border: #f29f05 7px solid;
+  border: #FF7518 7px solid;
   height: 616px;
   width: 500px;
   content: "";
@@ -1744,7 +1744,7 @@ header.two {
 .services-card-style i:after {
   position: absolute;
   content: "";
-  border: #f29f05 3px solid;
+  border: #FF7518 3px solid;
   height: 72px;
   width: 70px;
   border-radius: 20px;
@@ -1760,7 +1760,7 @@ header.two {
   border-radius: 60px;
 }
 .services-card-style:hover {
-  border: 1px solid #f29f05;
+  border: 1px solid #FF7518;
   border-radius: 10px;
 }
 .services-card-style:hover i:after {
@@ -1803,7 +1803,7 @@ header.two {
 }
 .sit-at-img:before {
   border-radius: 40px;
-  border: 8px solid #f29f05;
+  border: 8px solid #FF7518;
   content: "";
   position: absolute;
   height: 600px;
@@ -2012,7 +2012,7 @@ ul.food-dishes li {
   position: absolute;
   content: "";
   border-radius: 20px;
-  border: 8px solid #f29f05;
+  border: 8px solid #FF7518;
   height: 443px;
   width: 640px;
   left: 5%;
@@ -2158,7 +2158,7 @@ ul.food-dishes li {
   width: auto;
   margin-right: 30px;
 }
-.blog-post-data-img .Bafa {
+.blog-post-data-img .Quickeat  {
   position: absolute;
   top: 11%;
   left: 4%;
@@ -2170,7 +2170,7 @@ ul.food-dishes li {
   -moz-box-shadow: 0px -1px 30px 4px rgba(255 255 255 / 0%);
   padding: 0;
 }
-.posts-section-blog .news-posts-one.blog .Bafa {
+.posts-section-blog .news-posts-one.blog .Quickeat  {
   position: absolute;
   top: 4%;
   left: 6%;
@@ -2254,13 +2254,13 @@ li.color h5 i {
   color: #cfcfcf;
 }
 /*-----------------        single blog page        -----------------*/
-.single-blog .Bafa {
+.single-blog .Quickeat  {
   position: relative;
   top: 0;
   left: 0;
   margin-top: 40px;
 }
-.single-blog .Bafaa {
+.single-blog .Quickeat a {
   border-radius: 5px;
   color: white;
   padding: 3px 11px;
@@ -2682,7 +2682,7 @@ form.checkout-form {
 
 /* CHECKED STYLES */
 [type="radio"]:checked + img {
-  outline: 1px solid #f29f05;
+  outline: 1px solid #FF7518;
   padding: 12px 18px;
 }
 .tab-pane label {
@@ -2728,7 +2728,7 @@ form.checkout-form {
 
 /* When the checkbox is checked, add a blue background */
 .checkbox-one input:checked ~ .checkmark {
-  background-color: #f29f05;
+  background-color: #FF7518;
 }
 
 /* Create the checkmark/indicator (hidden when not checked) */
@@ -2947,7 +2947,7 @@ body.menu-layer:before {
 .menu-cls-btn:hover .cls-leftright,
 .menu-cls-btn:hover .cls-leftright,
 .menu-cls-btn:hover .cls-rightleft {
-  background-color: #f29f05;
+  background-color: #FF7518;
 }
 .menu-cls-btn:hover .cls-leftright {
   -webkit-transform: rotate(-45deg);

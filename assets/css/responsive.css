@@ -158,7 +158,7 @@
         font-size: 42px;
         line-height: 52px;
      }
-     .Bafa{
+     .Quickeat {
         top: 8%;
         left: 8%;
     }
@@ -177,7 +177,7 @@
         margin-left: 0;
         margin-right: 20px;
     }
-    .news-posts-one.blog .Bafa{
+    .news-posts-one.blog .Quickeat {
         top: 7%;
         left: 11%;
     }
@@ -427,7 +427,7 @@
     .blog-post-data-img img {
         width: 873px;
     }
-    .blog-post-data-img .Bafa{
+    .blog-post-data-img .Quickeat {
         top: 6%;
         left: 6%;
     }
@@ -1063,7 +1063,7 @@
     .subscribe-section.about .get-the-menu form i{
         top: 20%;
     }
-    .blog-post-data-img .Bafa{
+    .blog-post-data-img .Quickeat {
         top: 6%;
         left: 9%;
     }
@@ -1169,7 +1169,7 @@
     .our-team:before {
         height: 62%;
     }
-    .news-posts-one .Bafaa{
+    .news-posts-one .Quickeat a{
         font-size: 12px;
     }
     .Provides input[type="text"]{
